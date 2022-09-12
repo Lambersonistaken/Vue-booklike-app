@@ -1,7 +1,12 @@
 {
-      "users" : [],
-      "bookmarks" : [],
-      "categories" : []
-
-
+  "users": [
+    {
+      "username": "lamberson",
+      "fullname": "İsmail Emir",
+      "password": "U2FsdGVkX1/EjC39dgqMQWGodT8Xi3xsDgPLRlnpXe0=",
+      "id": 1
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
 }
