@@ -34,6 +34,7 @@ export default {
 
       this.$appAxios.post("/users",{...this.userData, password}).then(registered_user_response => {
         console.log("Registered User:>>",registered_user_response)
+        this.$router.push({name: "HomePage"})
       })
 
     }
